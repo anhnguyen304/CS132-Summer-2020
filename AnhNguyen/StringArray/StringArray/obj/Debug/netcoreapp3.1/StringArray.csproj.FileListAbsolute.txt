@@ -1,0 +1,12 @@
+/Users/nguyentm/Projects/StringArray/StringArray/bin/Debug/netcoreapp3.1/StringArray.deps.json
+/Users/nguyentm/Projects/StringArray/StringArray/bin/Debug/netcoreapp3.1/StringArray.runtimeconfig.json
+/Users/nguyentm/Projects/StringArray/StringArray/bin/Debug/netcoreapp3.1/StringArray.runtimeconfig.dev.json
+/Users/nguyentm/Projects/StringArray/StringArray/bin/Debug/netcoreapp3.1/StringArray.dll
+/Users/nguyentm/Projects/StringArray/StringArray/bin/Debug/netcoreapp3.1/StringArray.pdb
+/Users/nguyentm/Projects/StringArray/StringArray/obj/Debug/netcoreapp3.1/StringArray.csprojAssemblyReference.cache
+/Users/nguyentm/Projects/StringArray/StringArray/obj/Debug/netcoreapp3.1/StringArray.AssemblyInfoInputs.cache
+/Users/nguyentm/Projects/StringArray/StringArray/obj/Debug/netcoreapp3.1/StringArray.AssemblyInfo.cs
+/Users/nguyentm/Projects/StringArray/StringArray/obj/Debug/netcoreapp3.1/StringArray.csproj.CoreCompileInputs.cache
+/Users/nguyentm/Projects/StringArray/StringArray/obj/Debug/netcoreapp3.1/StringArray.dll
+/Users/nguyentm/Projects/StringArray/StringArray/obj/Debug/netcoreapp3.1/StringArray.pdb
+/Users/nguyentm/Projects/StringArray/StringArray/obj/Debug/netcoreapp3.1/StringArray.genruntimeconfig.cache
