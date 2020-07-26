@@ -1,0 +1,12 @@
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/ArraysChallenge/ArraysChallenge/bin/Debug/netcoreapp3.1/ArraysChallenge.deps.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/ArraysChallenge/ArraysChallenge/bin/Debug/netcoreapp3.1/ArraysChallenge.runtimeconfig.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/ArraysChallenge/ArraysChallenge/bin/Debug/netcoreapp3.1/ArraysChallenge.runtimeconfig.dev.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/ArraysChallenge/ArraysChallenge/bin/Debug/netcoreapp3.1/ArraysChallenge.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/ArraysChallenge/ArraysChallenge/bin/Debug/netcoreapp3.1/ArraysChallenge.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/ArraysChallenge/ArraysChallenge/obj/Debug/netcoreapp3.1/ArraysChallenge.csprojAssemblyReference.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/ArraysChallenge/ArraysChallenge/obj/Debug/netcoreapp3.1/ArraysChallenge.AssemblyInfoInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/ArraysChallenge/ArraysChallenge/obj/Debug/netcoreapp3.1/ArraysChallenge.AssemblyInfo.cs
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/ArraysChallenge/ArraysChallenge/obj/Debug/netcoreapp3.1/ArraysChallenge.csproj.CoreCompileInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/ArraysChallenge/ArraysChallenge/obj/Debug/netcoreapp3.1/ArraysChallenge.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/ArraysChallenge/ArraysChallenge/obj/Debug/netcoreapp3.1/ArraysChallenge.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/ArraysChallenge/ArraysChallenge/obj/Debug/netcoreapp3.1/ArraysChallenge.genruntimeconfig.cache

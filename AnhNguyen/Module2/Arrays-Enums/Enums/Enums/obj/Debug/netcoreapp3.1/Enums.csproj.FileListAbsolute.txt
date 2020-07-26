@@ -1,0 +1,12 @@
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module 2/Arrays-Enums/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.deps.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module 2/Arrays-Enums/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.runtimeconfig.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module 2/Arrays-Enums/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.runtimeconfig.dev.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module 2/Arrays-Enums/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module 2/Arrays-Enums/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module 2/Arrays-Enums/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.csprojAssemblyReference.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module 2/Arrays-Enums/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.AssemblyInfoInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module 2/Arrays-Enums/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.AssemblyInfo.cs
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module 2/Arrays-Enums/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.csproj.CoreCompileInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module 2/Arrays-Enums/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module 2/Arrays-Enums/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module 2/Arrays-Enums/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.genruntimeconfig.cache

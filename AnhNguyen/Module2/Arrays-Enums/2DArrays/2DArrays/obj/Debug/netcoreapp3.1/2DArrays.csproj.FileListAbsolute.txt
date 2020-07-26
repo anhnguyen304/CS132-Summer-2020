@@ -1,0 +1,12 @@
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.deps.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.runtimeconfig.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.runtimeconfig.dev.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.csprojAssemblyReference.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.AssemblyInfoInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.AssemblyInfo.cs
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.csproj.CoreCompileInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.genruntimeconfig.cache
