@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increment-Decrement", "Increment-Decrement\Increment-Decrement.csproj", "{C5C86DDD-6AA6-41AD-AF90-F17ABE10E069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C86DDD-6AA6-41AD-AF90-F17ABE10E069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C86DDD-6AA6-41AD-AF90-F17ABE10E069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C86DDD-6AA6-41AD-AF90-F17ABE10E069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C86DDD-6AA6-41AD-AF90-F17ABE10E069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

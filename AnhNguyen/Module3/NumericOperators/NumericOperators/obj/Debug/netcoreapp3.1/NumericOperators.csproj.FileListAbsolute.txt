@@ -1,0 +1,12 @@
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module3/NumericOperators/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.deps.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module3/NumericOperators/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.runtimeconfig.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module3/NumericOperators/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.runtimeconfig.dev.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module3/NumericOperators/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module3/NumericOperators/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module3/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.csprojAssemblyReference.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module3/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.AssemblyInfoInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module3/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.AssemblyInfo.cs
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module3/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.csproj.CoreCompileInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module3/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module3/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module3/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.genruntimeconfig.cache
