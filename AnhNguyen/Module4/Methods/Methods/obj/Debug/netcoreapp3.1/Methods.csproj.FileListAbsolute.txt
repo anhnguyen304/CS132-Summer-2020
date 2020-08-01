@@ -1,0 +1,12 @@
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.csprojAssemblyReference.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfoInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.AssemblyInfo.cs
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.csproj.CoreCompileInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.deps.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.runtimeconfig.dev.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Methods/Methods/bin/Debug/netcoreapp3.1/Methods.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Methods/Methods/obj/Debug/netcoreapp3.1/Methods.genruntimeconfig.cache

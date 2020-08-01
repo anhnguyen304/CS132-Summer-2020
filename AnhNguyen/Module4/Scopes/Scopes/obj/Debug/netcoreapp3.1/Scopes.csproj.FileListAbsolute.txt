@@ -1,0 +1,12 @@
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Scopes/Scopes/bin/Debug/netcoreapp3.1/Scopes.deps.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Scopes/Scopes/bin/Debug/netcoreapp3.1/Scopes.runtimeconfig.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Scopes/Scopes/bin/Debug/netcoreapp3.1/Scopes.runtimeconfig.dev.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Scopes/Scopes/bin/Debug/netcoreapp3.1/Scopes.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Scopes/Scopes/bin/Debug/netcoreapp3.1/Scopes.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.csprojAssemblyReference.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.AssemblyInfoInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.AssemblyInfo.cs
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.csproj.CoreCompileInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module4/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.genruntimeconfig.cache
