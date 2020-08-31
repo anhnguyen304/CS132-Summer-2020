@@ -1,0 +1,12 @@
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module6/String-Manipulation/String-Manipulation/bin/Debug/netcoreapp3.1/String-Manipulation.deps.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module6/String-Manipulation/String-Manipulation/bin/Debug/netcoreapp3.1/String-Manipulation.runtimeconfig.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module6/String-Manipulation/String-Manipulation/bin/Debug/netcoreapp3.1/String-Manipulation.runtimeconfig.dev.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module6/String-Manipulation/String-Manipulation/bin/Debug/netcoreapp3.1/String-Manipulation.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module6/String-Manipulation/String-Manipulation/bin/Debug/netcoreapp3.1/String-Manipulation.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module6/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.csprojAssemblyReference.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module6/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.AssemblyInfoInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module6/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.AssemblyInfo.cs
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module6/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.csproj.CoreCompileInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module6/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module6/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module6/String-Manipulation/String-Manipulation/obj/Debug/netcoreapp3.1/String-Manipulation.genruntimeconfig.cache
