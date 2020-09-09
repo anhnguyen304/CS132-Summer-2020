@@ -1,0 +1,12 @@
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Collections/ArrayList/ArrayList/bin/Debug/netcoreapp3.1/ArrayList.deps.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Collections/ArrayList/ArrayList/bin/Debug/netcoreapp3.1/ArrayList.runtimeconfig.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Collections/ArrayList/ArrayList/bin/Debug/netcoreapp3.1/ArrayList.runtimeconfig.dev.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Collections/ArrayList/ArrayList/bin/Debug/netcoreapp3.1/ArrayList.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Collections/ArrayList/ArrayList/bin/Debug/netcoreapp3.1/ArrayList.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Collections/ArrayList/ArrayList/obj/Debug/netcoreapp3.1/ArrayList.csprojAssemblyReference.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Collections/ArrayList/ArrayList/obj/Debug/netcoreapp3.1/ArrayList.AssemblyInfoInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Collections/ArrayList/ArrayList/obj/Debug/netcoreapp3.1/ArrayList.AssemblyInfo.cs
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Collections/ArrayList/ArrayList/obj/Debug/netcoreapp3.1/ArrayList.csproj.CoreCompileInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Collections/ArrayList/ArrayList/obj/Debug/netcoreapp3.1/ArrayList.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Collections/ArrayList/ArrayList/obj/Debug/netcoreapp3.1/ArrayList.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Collections/ArrayList/ArrayList/obj/Debug/netcoreapp3.1/ArrayList.genruntimeconfig.cache

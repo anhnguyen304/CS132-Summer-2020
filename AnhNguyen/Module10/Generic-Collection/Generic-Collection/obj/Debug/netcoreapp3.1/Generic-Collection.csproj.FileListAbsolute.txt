@@ -1,0 +1,12 @@
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Generic-Collection/bin/Debug/netcoreapp3.1/Generic-Collection.deps.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Generic-Collection/bin/Debug/netcoreapp3.1/Generic-Collection.runtimeconfig.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Generic-Collection/bin/Debug/netcoreapp3.1/Generic-Collection.runtimeconfig.dev.json
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Generic-Collection/bin/Debug/netcoreapp3.1/Generic-Collection.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Generic-Collection/bin/Debug/netcoreapp3.1/Generic-Collection.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Generic-Collection/obj/Debug/netcoreapp3.1/Generic-Collection.csprojAssemblyReference.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Generic-Collection/obj/Debug/netcoreapp3.1/Generic-Collection.AssemblyInfoInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Generic-Collection/obj/Debug/netcoreapp3.1/Generic-Collection.AssemblyInfo.cs
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Generic-Collection/obj/Debug/netcoreapp3.1/Generic-Collection.csproj.CoreCompileInputs.cache
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Generic-Collection/obj/Debug/netcoreapp3.1/Generic-Collection.dll
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Generic-Collection/obj/Debug/netcoreapp3.1/Generic-Collection.pdb
+/Users/nguyentm/Downloads/CITYU/2020/CS132/CS132-Summer-2020/AnhNguyen/Module10/Generic-Collection/Generic-Collection/obj/Debug/netcoreapp3.1/Generic-Collection.genruntimeconfig.cache
